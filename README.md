@@ -33,7 +33,8 @@ a project to learn how to make an OS.
 > then you can do cargo bootimage where src/main.rs is update or not
 
   a .bin file will be made in the debug folder of the project
-- *now with a virtual machine or booting a computer you can run it you just have to run the .bin file*
+- * now you can boot it in a virtual machine or copy it to a USB drive to boot it on real hardware. *
+
 
 ### Example
 
