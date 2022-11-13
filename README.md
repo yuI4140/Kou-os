@@ -24,7 +24,10 @@ a project to learn how to make an OS.
   
   ``bootloader='LatestVersionBootloader'``
 
-- *then you type* ` cargo bootimage `
+- * then you type * ` cargo install bootimage;cargo bootimage `
+> remember cargo install bootimage is only for install 
+>
+> then you can do cargo bootimage where src/main.rs is update or not
 
   a .bin file will be made in the debug folder of the project
 - *now with a virtual machine or booting a computer you can run it you just have to run the .bin file*
