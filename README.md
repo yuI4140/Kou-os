@@ -38,7 +38,7 @@ a project to learn how to make an OS.
 
 ### Example
 
-*we are using QUEMU how a vertual machine*
+*we are using QEMU how a vertual machine*
 
 ``` qemu-system-x86_64 -drive format=raw,file=target\x86_64\debug\bootimage-kernrust-toolchainel.bin ```
 
