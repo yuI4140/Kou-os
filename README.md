@@ -5,7 +5,7 @@
 a project to learn how to make an OS.
 
 ## Usage
-- * Frist you need to install rust nighty*
+- ** Frist you need to install rust nighty**
    `` rustup default nightly ``
 
 - * then just in case we add this component to rustup *
