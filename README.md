@@ -22,7 +22,7 @@ a project to learn how to make an OS.
 
   2--> search what is the latest version for bootloader and write in the cargo.toml
   
-  ` bootloader='LatestVersionBootloader' ``
+  ``bootloader='LatestVersionBootloader'``
 
 - *then you type* ` cargo bootimage `
 
