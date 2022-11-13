@@ -43,5 +43,6 @@ a project to learn how to make an OS.
 
 ## Links
 [Writing an OS in Rust](https://os.phil-opp.com/)
+<span style="color:blue">some *blue* text</span>
 
 
