@@ -15,14 +15,6 @@ a project to learn how to make an OS.
    
  > by the way, I think this is only on Windows if you have another OS you can avoid this part.
 
-- *besides that we install the bootloader dependencies 
-   it can be done in two ways*:
-
-  1--> type in the command line ` cargo add bootloader `
-
-  2--> search what is the latest version for bootloader and write in the cargo.toml
-  
-  ``bootloader='LatestVersionBootloader'``
 
 - *then you type*: 
 
