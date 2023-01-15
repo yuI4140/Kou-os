@@ -15,3 +15,4 @@ panic = "abort" # disable stack unwinding on panic
 panic = "abort" # disable stack unwinding on panic
 [dependencies]
 bootloader = "0.9.8"
+volatile = "0.4.5"
