@@ -40,7 +40,7 @@ a project to learn how to make an OS.
 ## Links
 [Writing an OS in Rust](https://os.phil-opp.com/)
 ## Status
-Paused for now because I need more free days for done the project.
+Paused
 
 
 
